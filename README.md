@@ -1,6 +1,6 @@
 # ReadMe_Generator
 
-    # Description
+  # Description
   This is a project for module 9 of the UofA Boot Camp. This is a project that is designed to take input from a user and output a functional readme file. 
   
   # Table of Contents 
